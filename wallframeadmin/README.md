@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23007c57-36ca-4446-86cd-60d644a1ae90" alt="App Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/9d4f65e7-7200-4a7c-9dee-73fc28133dca" alt="App Logo" width="120"/>
 </p>
+
 
 
 # 🛠️ WallFrame Admin
@@ -50,6 +51,7 @@ This is the admin panel for the **WallFrame** wallpaper platform. It's a Flutter
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0135adcb-c41a-48f9-b5d2-31c9323d340e" alt="Admin Login" width="250"/> 
-  <img src="https://github.com/user-attachments/assets/92b496ce-f72c-4708-9ced-24b05d2d282e" alt="Upload Screen" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/761ddcd5-f05a-477c-a3ad-51ad8178f50c" alt="Admin Login" width="250"/> 
+  <img src="https://github.com/user-attachments/assets/61e79b7d-3fab-46c7-b64d-b008d1d09c41" alt="Upload Screen" width="250"/> 
 </p>
+
