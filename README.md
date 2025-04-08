@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/815b2659-4285-4ae5-94e0-e187dc2354ba" alt="App Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/9ea26186-e8f4-41a5-8edb-3c421934db12" alt="App Logo" width="120"/>
 </p>
+
 
 # 🎨 Wallframe Wallpaper App
 
