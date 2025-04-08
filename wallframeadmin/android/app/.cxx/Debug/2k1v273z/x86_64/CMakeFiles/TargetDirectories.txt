@@ -1,0 +1,2 @@
+D:/Wallframe App/wallframeadmin/android/app/.cxx/Debug/2k1v273z/x86_64/CMakeFiles/edit_cache.dir
+D:/Wallframe App/wallframeadmin/android/app/.cxx/Debug/2k1v273z/x86_64/CMakeFiles/rebuild_cache.dir
