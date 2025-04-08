@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/815b2659-4285-4ae5-94e0-e187dc2354ba" alt="App Logo" width="120"/>
+  <img src="https://github.com/user-attachments/assets/9ea26186-e8f4-41a5-8edb-3c421934db12" alt="App Logo" width="120"/>
 </p>
 
 
@@ -53,11 +53,10 @@ WallFrame is a fast, minimal wallpaper app built using **Flutter**. Browse high-
 ## Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cb0e9670-f637-441e-a57d-88c5b4205bf2" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/user-attachments/assets/48f61ed2-30b4-4742-b70a-08d696b2f9d4" alt="Screenshot 4" width="200"/>
-  <img src="https://github.com/user-attachments/assets/42e8b9f1-265a-43bf-adbc-225ead50157b" alt="Screenshot 3" width="200"/>
-  <img src="https://github.com/user-attachments/assets/9db7e34f-cfa2-489f-935b-745dc354d728" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/user-attachments/assets/dbf216e4-5b0e-46b6-b681-5db8e006dfeb" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/user-attachments/assets/cc76dc30-7f5b-4f55-90ab-df251c61c16a" alt="Screenshot 4" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5e5b753c-04c5-41d2-8948-9818cafead14" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/user-attachments/assets/3da119aa-9233-48b3-a115-ebfd81155968" alt="Screenshot 2" width="200"/>
 </p>
-
 
 
